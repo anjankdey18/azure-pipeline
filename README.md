@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sample Python app for Azure Pipelines docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
@@ -40,3 +41,6 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+=======
+# azure-pipeline
+>>>>>>> d6ba542ebfa18c1e9e7f64455500f094d0523899
